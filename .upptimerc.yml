@@ -31,11 +31,11 @@ status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Status
-  introTitle: "Savage Services Application **Status**"
+  name: Status - Savage Services Applications
+  introTitle: "Savage Services Application **Uptime**"
   introMessage: Below are **real-time** uptime data
   navbar:
-    - title: Status
+    - title: Uptime
       href: /
 
 # Upptime also supports notifications, assigning issues, and more
