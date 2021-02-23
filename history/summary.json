@@ -59,14 +59,14 @@
     "icon": "https://favicons.githubusercontent.com/input.savageservices.com",
     "slug": "input",
     "status": "up",
-    "uptime": "97.95%",
+    "uptime": "98.03%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.95%",
-    "uptimeYear": "97.95%",
+    "uptimeMonth": "98.03%",
+    "uptimeYear": "98.03%",
     "time": 834,
     "timeDay": 908,
-    "timeWeek": 972,
+    "timeWeek": 1057,
     "timeMonth": 834,
     "timeYear": 834,
     "dailyMinutesDown": {
@@ -116,9 +116,9 @@
     "url": "https://thehub.savageservices.com",
     "icon": "https://favicons.githubusercontent.com/thehub.savageservices.com",
     "slug": "the-hub",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -127,7 +127,9 @@
     "timeWeek": 745,
     "timeMonth": 728,
     "timeYear": 728,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-23": 0
+    }
   },
   {
     "name": "TheHub2",
