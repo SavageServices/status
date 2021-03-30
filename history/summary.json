@@ -5,17 +5,22 @@
     "icon": "https://favicons.githubusercontent.com/accounting.savageservices.com",
     "slug": "accounting-portal",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.07%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1139,
-    "timeDay": 1025,
-    "timeWeek": 1164,
-    "timeMonth": 1159,
-    "timeYear": 1139,
-    "dailyMinutesDown": {}
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.07%",
+    "time": 1135,
+    "timeDay": 930,
+    "timeWeek": 1170,
+    "timeMonth": 1152,
+    "timeYear": 1135,
+    "dailyMinutesDown": {
+      "2021-03-18": 28,
+      "2021-02-23": 61,
+      "2021-02-08": 20,
+      "2021-02-07": 615
+    }
   },
   {
     "name": "Archiver",
@@ -23,17 +28,22 @@
     "icon": "https://favicons.githubusercontent.com/archiver.savageservices.com",
     "slug": "archiver",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.07%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.07%",
     "time": 379,
-    "timeDay": 361,
-    "timeWeek": 374,
-    "timeMonth": 376,
+    "timeDay": 353,
+    "timeWeek": 375,
+    "timeMonth": 375,
     "timeYear": 379,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-18": 28,
+      "2021-02-23": 61,
+      "2021-02-08": 20,
+      "2021-02-07": 615
+    }
   },
   {
     "name": "Connect",
@@ -41,17 +51,22 @@
     "icon": "https://favicons.githubusercontent.com/connect.savageservices.com",
     "slug": "connect",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.07%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 293,
-    "timeDay": 272,
-    "timeWeek": 286,
-    "timeMonth": 292,
-    "timeYear": 293,
-    "dailyMinutesDown": {}
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.07%",
+    "time": 292,
+    "timeDay": 241,
+    "timeWeek": 283,
+    "timeMonth": 290,
+    "timeYear": 292,
+    "dailyMinutesDown": {
+      "2021-03-18": 28,
+      "2021-02-23": 61,
+      "2021-02-08": 20,
+      "2021-02-07": 615
+    }
   },
   {
     "name": "Input",
@@ -59,16 +74,16 @@
     "icon": "https://favicons.githubusercontent.com/input.savageservices.com",
     "slug": "input",
     "status": "up",
-    "uptime": "99.23%",
+    "uptime": "99.24%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "99.23%",
-    "time": 936,
-    "timeDay": 1140,
-    "timeWeek": 1073,
-    "timeMonth": 1045,
-    "timeYear": 936,
+    "uptimeYear": "99.24%",
+    "time": 934,
+    "timeDay": 802,
+    "timeWeek": 1083,
+    "timeMonth": 1037,
+    "timeYear": 934,
     "dailyMinutesDown": {
       "2021-03-18": 28,
       "2021-02-07": 563
@@ -80,17 +95,22 @@
     "icon": "https://favicons.githubusercontent.com/s7i.savageservices.com",
     "slug": "s7i",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.07%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 289,
-    "timeDay": 296,
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.07%",
+    "time": 288,
+    "timeDay": 250,
     "timeWeek": 275,
-    "timeMonth": 285,
-    "timeYear": 289,
-    "dailyMinutesDown": {}
+    "timeMonth": 283,
+    "timeYear": 288,
+    "dailyMinutesDown": {
+      "2021-03-18": 28,
+      "2021-02-23": 61,
+      "2021-02-08": 20,
+      "2021-02-07": 615
+    }
   },
   {
     "name": "Snapshot",
@@ -104,9 +124,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 318,
-    "timeDay": 329,
-    "timeWeek": 309,
-    "timeMonth": 316,
+    "timeDay": 321,
+    "timeWeek": 323,
+    "timeMonth": 317,
     "timeYear": 318,
     "dailyMinutesDown": {
       "2021-02-07": 26
@@ -123,11 +143,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 1444,
-    "timeDay": 818,
-    "timeWeek": 1027,
-    "timeMonth": 787,
-    "timeYear": 1444,
+    "time": 1426,
+    "timeDay": 383,
+    "timeWeek": 989,
+    "timeMonth": 774,
+    "timeYear": 1426,
     "dailyMinutesDown": {
       "2021-02-23": 61
     }
@@ -143,11 +163,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 775,
-    "timeDay": 681,
-    "timeWeek": 687,
-    "timeMonth": 753,
-    "timeYear": 775,
+    "time": 772,
+    "timeDay": 588,
+    "timeWeek": 695,
+    "timeMonth": 748,
+    "timeYear": 772,
     "dailyMinutesDown": {
       "2021-02-08": 20
     }
@@ -164,9 +184,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 286,
-    "timeDay": 328,
-    "timeWeek": 370,
-    "timeMonth": 300,
+    "timeDay": 265,
+    "timeWeek": 374,
+    "timeMonth": 299,
     "timeYear": 286,
     "dailyMinutesDown": {
       "2021-02-07": 26
@@ -178,16 +198,21 @@
     "icon": "https://favicons.githubusercontent.com/transload.savageservices.com",
     "slug": "transload",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.07%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.07%",
     "time": 282,
-    "timeDay": 267,
-    "timeWeek": 358,
-    "timeMonth": 296,
+    "timeDay": 262,
+    "timeWeek": 363,
+    "timeMonth": 294,
     "timeYear": 282,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-18": 28,
+      "2021-02-23": 61,
+      "2021-02-08": 20,
+      "2021-02-07": 615
+    }
   }
 ]
